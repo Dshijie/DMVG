@@ -1,0 +1,2 @@
+## Diffusion-based Missing-view Generation With the Application on Incomplete Multi-view Clustering
+We give a demo in `demo.ipynb`, which generates the classic, infrared, and thermal modalities, respectively.
